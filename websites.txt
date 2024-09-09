@@ -85,3 +85,5 @@ google.co.kr
 googleusercontent.com
 testter.gk
 myhome.tk
+bolo.tx
+tham.km
